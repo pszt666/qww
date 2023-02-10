@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/externalsort/functions.cpp
+functions.h
+F:/externalsort/functions.h
+
+F:/externalsort/functions.h
+algorithm
+-
+fstream
+-
+iostream
+-
+vector
+-
+windows.h
+-
+
+F:/externalsort/main.cpp
+functions.h
+F:/externalsort/functions.h
+

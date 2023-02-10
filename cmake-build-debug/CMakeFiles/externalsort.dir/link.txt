@@ -1,0 +1,3 @@
+"F:\CLion 2020.1.3\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\externalsort.dir/objects.a
+F:\mingw64\bin\ar.exe cr CMakeFiles\externalsort.dir/objects.a @CMakeFiles\externalsort.dir\objects1.rsp
+F:\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\externalsort.dir/objects.a -Wl,--no-whole-archive  -o externalsort.exe -Wl,--out-implib,libexternalsort.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\externalsort.dir\linklibs.rsp

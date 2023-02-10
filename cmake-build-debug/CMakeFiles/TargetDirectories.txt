@@ -1,0 +1,3 @@
+F:/externalsort/cmake-build-debug/CMakeFiles/externalsort.dir
+F:/externalsort/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/externalsort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
